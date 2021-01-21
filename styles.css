@@ -205,3 +205,11 @@
       letter-spacing: 2px;
       float: right;
   }
+@media screen and (max-width: 523px) {
+  .search {
+    opacity: 0;
+  }
+  .category {
+  	opacity: 0;
+  }
+}
